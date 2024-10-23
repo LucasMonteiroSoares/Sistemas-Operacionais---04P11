@@ -1,5 +1,5 @@
-README LAB 06
-// Lucas Monteiro Soares - 10417881
+README LAB 06 <br>
+// Lucas Monteiro Soares - 10417881<br>
 // Matteo Porcare - 10418276
 
 3-) Quantidade de memória gasta por cada instância da célula.
